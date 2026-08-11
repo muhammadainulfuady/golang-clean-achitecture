@@ -22,5 +22,6 @@
         └── 📁usecase
     ├── go.mod
     ├── go.sum
+    |-- config.json
     └── main.go
 ```
